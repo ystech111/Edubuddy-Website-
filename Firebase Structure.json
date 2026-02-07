@@ -1,0 +1,1508 @@
+{
+  "PDF Notes": {
+    "Department": {
+      "IT": {
+        "Semester 1": {
+          "Subjects": {
+            "Engineering Mathematics-I": {
+              "Unit I": {
+                "Name": "Unit I: Differential Calculus",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Integral Calculus",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Matrices",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Vector Calculus",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Complex Numbers",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Differential Equations",
+                "getPDFlink": ""
+              }
+            },
+            "Engineering Physics": {
+              "Unit I": {
+                "Name": "Unit I: Interference and Diffraction",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Polarization",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Lasers",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Fiber Optics",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Quantum Mechanics",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Semiconductors",
+                "getPDFlink": ""
+              }
+            },
+            "Engineering Chemistry": {
+              "Unit I": {
+                "Name": "Unit I: Water Technology",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Electrochemistry",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Corrosion and its Control",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Fuels and Combustion",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Polymers",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Nanomaterials",
+                "getPDFlink": ""
+              }
+            },
+            "Basic Electrical Engineering": {
+              "Unit I": {
+                "Name": "Unit I: DC Circuits",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Single Phase AC Circuits",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Three Phase AC Circuits",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Transformers",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Electrical Machines",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Electrical Installations",
+                "getPDFlink": ""
+              }
+            },
+            "Systems in Mechanical Engineering": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to Mechanical Engineering",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Energy Resources",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Engineering Materials",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Manufacturing Processes",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Machine Elements",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Thermal Systems",
+                "getPDFlink": ""
+              }
+            },
+            "Programming and Problem Solving": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to Programming",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Control Structures",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Functions",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Arrays and Strings",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Pointers",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Structures and Unions",
+                "getPDFlink": ""
+              }
+            }
+          }
+        },
+        "Semester 2": {
+          "Subjects": {
+            "Engineering Mathematics-II": {
+              "Unit I": {
+                "Name": "Unit I: Linear Differential Equations",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Applications of Differential Equations",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Laplace Transforms",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Fourier Series",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Partial Differential Equations",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Applications of PDEs",
+                "getPDFlink": ""
+              }
+            },
+            "Engineering Mechanics": {
+              "Unit I": {
+                "Name": "Unit I: Statics of Particles",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Statics of Rigid Bodies",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Centroid and Moment of Inertia",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Kinematics of Particles",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Kinetics of Particles",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Work and Energy",
+                "getPDFlink": ""
+              }
+            },
+            "Basic Electronics Engineering": {
+              "Unit I": {
+                "Name": "Unit I: Semiconductor Diodes",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Bipolar Junction Transistors",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Field Effect Transistors",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Operational Amplifiers",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Digital Electronics",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Communication Systems",
+                "getPDFlink": ""
+              }
+            },
+            "Engineering Graphics": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to Engineering Drawing",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Orthographic Projections",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Isometric Projections",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Sectional Views",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Dimensioning and Tolerancing",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Computer-Aided Drafting",
+                "getPDFlink": ""
+              }
+            },
+            "Project-Based Learning": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to Projects",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Project Planning",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Design and Development",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Testing and Implementation",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Documentation",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Presentation and Evaluation",
+                "getPDFlink": ""
+              }
+            }
+          }
+        },
+        "Semester 3": {
+          "Subjects": {
+            "Discrete Mathematics": {
+              "Unit I": {
+                "Name": "Unit I: Sets and Propositions",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Relations and Functions",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Graph Theory",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Trees",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Algebraic Structures",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Combinatorics",
+                "getPDFlink": ""
+              }
+            },
+            "Logic Design and Computer Organization": {
+              "Unit I": {
+                "Name": "Unit I: Number Systems and Codes",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Boolean Algebra",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Combinational Logic Circuits",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Sequential Logic Circuits",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Memory and Storage",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: CPU Organization",
+                "getPDFlink": ""
+              }
+            },
+            "Data Structures and Algorithms": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to Data Structures",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Linked Lists",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Stacks and Queues",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Trees",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Graphs",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Sorting and Searching Algorithms",
+                "getPDFlink": ""
+              }
+            },
+            "Object-Oriented Programming": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to OOP",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Classes and Objects",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Inheritance",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Polymorphism",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Exception Handling",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: File Handling",
+                "getPDFlink": ""
+              }
+            },
+            "Basics of Computer Network": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to Networks",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: OSI and TCP/IP Models",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Physical Layer",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Data Link Layer",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Network Layer",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Transport and Application Layers",
+                "getPDFlink": ""
+              }
+            }
+          }
+        },
+        "Semester 4": {
+          "Subjects": {
+            "Engineering Mathematics-III": {
+              "Unit I": {
+                "Name": "Unit I: Fourier Transforms",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Z-Transforms",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Complex Variables",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Probability Theory",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Sampling Theory",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Stochastic Processes",
+                "getPDFlink": ""
+              }
+            },
+            "Processor Architecture": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to Microprocessors",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: 8086 Microprocessor Architecture",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Instruction Set and Programming",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Interrupts",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Interfacing",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Advanced Microprocessors",
+                "getPDFlink": ""
+              }
+            },
+            "Database Management System": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to DBMS",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Entity-Relationship Model",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Relational Model",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: SQL",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Normalization",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Transaction Management",
+                "getPDFlink": ""
+              }
+            },
+            "Computer Graphics": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to Computer Graphics",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Output Primitives",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: 2D Transformations",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Clipping and Windowing",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: 3D Transformations",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Visible Surface Detection",
+                "getPDFlink": ""
+              }
+            },
+            "Software Engineering": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to Software Engineering",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Software Process Models",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Requirements Engineering",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: System Modeling",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Design and Implementation",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Testing and Maintenance",
+                "getPDFlink": ""
+              }
+            }
+          }
+        }
+      },
+      "Mechanics": {
+        "Semester 1": {
+          "Subjects": {
+            "Engineering Mathematics-I": {
+              "Unit I": {
+                "Name": "Unit I: Differential Calculus",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Integral Calculus",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Matrices",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Vector Calculus",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Complex Numbers",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Differential Equations",
+                "getPDFlink": ""
+              }
+            },
+            "Engineering Physics": {
+              "Unit I": {
+                "Name": "Unit I: Interference and Diffraction",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Polarization",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Lasers",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Fiber Optics",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Quantum Mechanics",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Semiconductors",
+                "getPDFlink": ""
+              }
+            },
+            "Engineering Chemistry": {
+              "Unit I": {
+                "Name": "Unit I: Water Technology",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Electrochemistry",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Corrosion and its Control",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Fuels and Combustion",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Polymers",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Nanomaterials",
+                "getPDFlink": ""
+              }
+            },
+            "Basic Electrical Engineering": {
+              "Unit I": {
+                "Name": "Unit I: DC Circuits",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Single Phase AC Circuits",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Three Phase AC Circuits",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Transformers",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Electrical Machines",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Electrical Installations",
+                "getPDFlink": ""
+              }
+            },
+            "Systems in Mechanical Engineering": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to Mechanical Engineering",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Energy Resources",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Engineering Materials",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Manufacturing Processes",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Machine Elements",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Thermal Systems",
+                "getPDFlink": ""
+              }
+            }
+          }
+        },
+        "Semester 2": {
+          "Subjects": {
+            "Engineering Mathematics-II": {
+              "Unit I": {
+                "Name": "Unit I: Linear Differential Equations",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Applications of Differential Equations",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Laplace Transforms",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Fourier Series",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Partial Differential Equations",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Applications of PDEs",
+                "getPDFlink": ""
+              }
+            },
+            "Engineering Mechanics": {
+              "Unit I": {
+                "Name": "Unit I: Statics of Particles",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Statics of Rigid Bodies",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Centroid and Moment of Inertia",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Kinematics of Particles",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Kinetics of Particles",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Work and Energy",
+                "getPDFlink": ""
+              }
+            },
+            "Basic Electronics Engineering": {
+              "Unit I": {
+                "Name": "Unit I: Semiconductor Diodes",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Bipolar Junction Transistors",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Field Effect Transistors",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Operational Amplifiers",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Digital Electronics",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Communication Systems",
+                "getPDFlink": ""
+              }
+            },
+            "Engineering Graphics": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to Engineering Drawing",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Orthographic Projections",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Isometric Projections",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Sectional Views",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Dimensioning and Tolerancing",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Computer-Aided Drafting",
+                "getPDFlink": ""
+              }
+            },
+            "Project-Based Learning": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to Projects",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Project Planning",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Design and Development",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Testing and Implementation",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Documentation",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Presentation and Evaluation",
+                "getPDFlink": ""
+              }
+            }
+          }
+        },
+        "Semester 3": {
+          "Subjects": {
+            "Solid Mechanics": {
+              "Unit I": {
+                "Name": "Unit I: Simple Stresses and Strains",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Shear Force and Bending Moment",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Stresses in Beams",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Torsion",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Columns and Struts",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Strain Energy",
+                "getPDFlink": ""
+              }
+            },
+            "Solid Modeling and Drafting": {
+              "Unit I": {
+                "Name": "Unit I: Introduction to CAD",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Sketcher",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Part Modeling",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Assembly Modeling",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Surface Modeling",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Drafting",
+                "getPDFlink": ""
+              }
+            },
+            "Engineering Thermodynamics": {
+              "Unit I": {
+                "Name": "Unit I: Basic Concepts and First Law of Thermodynamics",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Second Law of Thermodynamics and Entropy",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Properties of Pure Substances",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Energy Analysis of Closed Systems",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Energy Analysis of Open Systems",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Gas Power Cycles",
+                "getPDFlink": ""
+              }
+            },
+            "Engineering Materials and Metallurgy": {
+              "Unit I": {
+                "Name": "Unit I: Crystal Structure",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Phase Diagrams",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Ferrous Materials",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Non-Ferrous Materials",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Heat Treatment Processes",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Material Testing",
+                "getPDFlink": ""
+              }
+            },
+            "Electrical and Electronics Engineering": {
+              "Unit I": {
+                "Name": "Unit I: DC Machines",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Transformers",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Induction Motors",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Synchronous Machines",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Power Electronics",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Digital Electronics",
+                "getPDFlink": ""
+              }
+            }
+          }
+        },
+        "Semester 4": {
+          "Subjects": {
+            "Engineering Mathematics-III": {
+              "Unit I": {
+                "Name": "Unit I: Fourier Transforms",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Z-Transforms",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Complex Variables",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Probability Theory",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Sampling Theory",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Stochastic Processes",
+                "getPDFlink": ""
+              }
+            },
+            "Kinematics of Machinery": {
+              "Unit I": {
+                "Name": "Unit I: Fundamentals of Mechanism",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Kinematic Analysis of Mechanisms",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Synthesis of Mechanisms",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Gear Trains",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Cams",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Belt, Rope, and Chain Drives",
+                "getPDFlink": ""
+              }
+            },
+            "Applied Thermodynamics": {
+              "Unit I": {
+                "Name": "Unit I: Steam Generators",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Steam Nozzles",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Steam Turbines",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Gas Turbines",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Jet Propulsion",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Refrigeration and Air Conditioning",
+                "getPDFlink": ""
+              }
+            },
+            "Fluid Mechanics": {
+              "Unit I": {
+                "Name": "Unit I: Fluid Properties and Fluid Statics",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Fluid Kinematics",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Fluid Dynamics",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Dimensional Analysis and Similitude",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Flow Through Pipes",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Boundary Layer Theory",
+                "getPDFlink": ""
+              }
+            },
+            "Manufacturing Processes": {
+              "Unit I": {
+                "Name": "Unit I: Casting Processes",
+                "getPDFlink": ""
+              },
+              "Unit II": {
+                "Name": "Unit II: Forming Processes",
+                "getPDFlink": ""
+              },
+              "Unit III": {
+                "Name": "Unit III: Welding and Joining Processes",
+                "getPDFlink": ""
+              },
+              "Unit IV": {
+                "Name": "Unit IV: Machining Processes",
+                "getPDFlink": ""
+              },
+              "Unit V": {
+                "Name": "Unit V: Advanced Manufacturing Processes",
+                "getPDFlink": ""
+              },
+              "Unit VI": {
+                "Name": "Unit VI: Additive Manufacturing",
+                "getPDFlink": ""
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "PYQ": {
+    "Department": {
+      "IT": {
+        "Semester 1": {
+          "Subjects": {
+            "Engineering Mathematics-I": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Engineering Physics": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Engineering Chemistry": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Basic Electrical Engineering": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Systems in Mechanical Engineering": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Programming and Problem Solving": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            }
+          }
+        },
+        "Semester 2": {
+          "Subjects": {
+            "Engineering Mathematics-II": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Engineering Mechanics": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Basic Electronics Engineering": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Engineering Graphics": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Project-Based Learning": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            }
+          }
+        },
+        "Semester 3": {
+          "Subjects": {
+            "Discrete Mathematics": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Logic Design and Computer Organization": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Data Structures and Algorithms": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Object-Oriented Programming": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Basics of Computer Network": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            }
+          }
+        },
+        "Semester 4": {
+          "Subjects": {
+            "Engineering Mathematics-III": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Processor Architecture": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Database Management System": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Computer Graphics": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Software Engineering": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            }
+          }
+        }
+      },
+      "Mechanics": {
+        "Semester 1": {
+          "Subjects": {
+            "Engineering Mathematics-I": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Engineering Physics": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Engineering Chemistry": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Basic Electrical Engineering": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Systems in Mechanical Engineering": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            }
+          }
+        },
+        "Semester 2": {
+          "Subjects": {
+            "Engineering Mathematics-II": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Engineering Mechanics": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Basic Electronics Engineering": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Engineering Graphics": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Project-Based Learning": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            }
+          }
+        },
+        "Semester 3": {
+          "Subjects": {
+            "Solid Mechanics": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Solid Modeling and Drafting": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Engineering Thermodynamics": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Engineering Materials and Metallurgy": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Electrical and Electronics Engineering": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            }
+          }
+        },
+        "Semester 4": {
+          "Subjects": {
+            "Engineering Mathematics-III": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Kinematics of Machinery": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Applied Thermodynamics": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Fluid Mechanics": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            },
+            "Manufacturing Processes": {
+              "Insem": {
+                "getPYQlink": ""
+              },
+              "Endsem": {
+                "getPYQlink": ""
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Syllabus Structure": {
+    "Department": {
+      "IT": {
+        "Semester 1": {
+          "Get Syllabus Structure": ""
+        },
+        "Semester 2": {
+          "Get Syllabus Structure": ""
+        },
+        "Semester 3": {
+          "Get Syllabus Structure": ""
+        },
+        "Semester 4": {
+          "Get Syllabus Structure": ""
+        }
+      },
+      "Mechanics": {
+        "Semester 1": {
+          "Get Syllabus Structure": ""
+        },
+        "Semester 2": {
+          "Get Syllabus Structure": ""
+        },
+        "Semester 3": {
+          "Get Syllabus Structure": ""
+        },
+        "Semester 4": {
+          "Get Syllabus Structure": ""
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - EduBuddy</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body class="dashboard-body">
+    <div class="dashboard-layout">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <i class="fas fa-graduation-cap"></i>
+                <h1>EduBuddy</h1>
+            </div>
+            <nav class="sidebar-nav">
+                <a href="#" class="nav-item active">
+                    <i class="fas fa-home"></i>
+                    <span>Dashboard</span>
+                </a>
+                <a href="#" class="nav-item" id="pdfNotes">
+                    <i class="fas fa-book"></i>
+                    <span>PDF Notes</span>
+                </a>
+                <a href="#" class="nav-item" id="pyq">
+                    <i class="fas fa-file-alt"></i>
+                    <span>PYQs</span>
+                </a>
+                <a href="#" class="nav-item" id="syllabus">
+                    <i class="fas fa-list-alt"></i>
+                    <span>Syllabus</span>
+                </a>
+            </nav>
+            <div class="sidebar-footer">
+                <a href="index.html" class="nav-item" id="logout">
+                    <i class="fas fa-sign-out-alt"></i>
+                    <span>Logout</span>
+                </a>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Top Navigation -->
+            <header class="top-nav">
+                <div class="search-container">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="dashboardSearchInput" placeholder="Search for study materials...">
+                </div>
+                <div class="dashboard-content">
+                </div>
+                   <div id="searchResultsContainer" class="search-results-area" style="display: none;">
+                   <h2>Search Results</h2>
+                   <div id="searchResultsList" class="results-list">
+                   </div>
+                </div>
+                <div class="user-menu">
+                    <div class="user-profile">
+                        <img src="https://ui-avatars.com/api/?name=User&background=1e6091&color=fff" alt="User" class="avatar">
+                        <span id="username">User</span>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Dashboard Content -->
+            <div class="dashboard-content">
+                <!-- Quick Stats -->
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon">
+                            <i class="fas fa-book-reader"></i>
+                        </div>
+                        <div class="stat-details">
+                            <h3>Study Materials</h3>
+                            <p>150+ PDFs</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">
+                            <i class="fas fa-file-alt"></i>
+                        </div>
+                        <div class="stat-details">
+                            <h3>PYQs</h3>
+                            <p>50+ Papers</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="content-grid">
+                    <div class="content-card recommended-learning">
+                        <h2>Personalized Learning Path</h2>
+                        <div class="learning-recommendations">
+                            <div class="recommendation-item">
+                                <div class="recommendation-icon">
+                                    <i class="fas fa-brain"></i>
+                                </div>
+                                <div class="recommendation-details">
+                                    <h4>Data Structures Mastery</h4>
+                                    <p>Recommended next topics: Linked Lists, Trees</p>
+                                    <div class="progress-bar">
+                                        <div class="progress" style="width: 65%;"></div>
+                                    </div>
+                                </div>
+                                <a href="#" class="btn-start">Start Learning</a>
+                            </div>
+                            <div class="recommendation-item">
+                                <div class="recommendation-icon">
+                                    <i class="fas fa-code"></i>
+                                </div>
+                                <div class="recommendation-details">
+                                    <h4>Web Development Skills</h4>
+                                    <p>Recommended course: Advanced React</p>
+                                    <div class="progress-bar">
+                                        <div class="progress" style="width: 40%;"></div>
+                                    </div>
+                                </div>
+                                <a href="#" class="btn-start">Explore Course</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="content-card resource-highlights">
+                        <h2>Resource Highlights</h2>
+                        <div class="resource-list">
+                            <div class="resource-item">
+                                <div class="resource-icon">
+                                    <i class="fas fa-video"></i>
+                                </div>
+                                <div class="resource-details">
+                                    <h4>Top Programming Tutorials</h4>
+                                    <p>Curated video series for IT students</p>
+                                </div>
+                                <a href="#" class="btn-view">View Series</a>
+                            </div>
+                            <div class="resource-item">
+                                <div class="resource-icon">
+                                    <i class="fas fa-book-open"></i>
+                                </div>
+                                <div class="resource-details">
+                                    <h4>Interview Preparation Kit</h4>
+                                    <p>Essential guides and mock tests</p>
+                                </div>
+                                <a href="#" class="btn-view">Access Kit</a>
+                            </div>
+                            <div class="resource-item">
+                                <div class="resource-icon">
+                                    <i class="fas fa-laptop-code"></i>
+                                </div>
+                                <div class="resource-details">
+                                    <h4>Coding Challenge</h4>
+                                    <p>Weekly programming challenges</p>
+                                </div>
+                                <a href="#" class="btn-view">Join Challenge</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Material Selection Popup -->
+    <div id="materialPopup" class="popup">
+        <div class="popup-content">
+            <div class="popup-header">
+                <h2>Select Study Material</h2>
+                <button id="closePopup" class="close-btn">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="popup-body">
+                <div class="form-group">
+                    <label for="department">Department</label>
+                    <select id="department">
+                        <option value="">Select Department</option>
+                        <option value="it">IT (Information Technology)</option>
+                        <option value="mech">Mechanical Engineering</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="semester">Semester</label>
+                    <select id="semester">
+                        <option value="">Select Semester</option>
+                        <option value="1">Semester 1</option>
+                        <option value="2">Semester 2</option>
+                        <option value="3">Semester 3</option>
+                        <option value="4">Semester 4</option>
+                    </select>
+                </div>
+                <div class="form-group" id="subjectGroup">
+                    <label for="subject">Subject</label>
+                    <select id="subject">
+                        <option value="">Select Subject</option>
+                    </select>
+                </div>
+                <div class="form-group" id="unitGroup">
+                    <label for="unit">Unit</label>
+                    <select id="unit">
+                        <option value="">Select Unit</option>
+                    </select>
+                </div>
+                <div class="form-group" id="examTypeGroup" style="display: none;">
+                    <label for="examType">Exam Type</label>
+                    <select id="examType">
+                        <option value="">Select Exam Type</option>
+                        <option value="insem">In-Semester</option>
+                        <option value="endsem">End-Semester</option>
+                    </select>
+                </div>
+            </div>
+            <div class="popup-footer">
+                <button id="getMaterial" class="btn-primary">
+                    <i class="fas fa-download"></i>
+                    Download Material
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="notifications.js"></script>
+    <script type="module" src="script.js"></script>
+</body>
+</html>
